@@ -1,0 +1,426 @@
+{
+    "locations": [
+        {
+            "name": "Fitra Chicken Rice",
+            "lat": 1.294415,
+            "lng": 103.853149,
+            "description": "Restaurant serving chicken rice.",
+            "address": "252 N Bridge Rd, Singapore 189768",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=5305602326290988395",
+                    "title": "Fitra Chicken Rice",
+                    "placeId": "places/ChIJ-cYTK6QZ2jERa30PmjRJoUk"
+                }
+            }
+        },
+        {
+            "name": "Feng Ji Chicken Rice",
+            "lat": 1.293795,
+            "lng": 103.842418,
+            "description": "Restaurant serving chicken rice with a rating of 4.2.",
+            "address": "225 River Valley Rd, Singapore 238283",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=15278626773516051439",
+                    "title": "Feng Ji Chicken Rice",
+                    "placeId": "places/ChIJ7aLOLJ8Z2jER72My0xmWCNQ"
+                }
+            }
+        },
+        {
+            "name": "Sam Leong St Chicken Rice",
+            "lat": 1.309897,
+            "lng": 103.856191,
+            "description": "Highly-rated restaurant (4.7) offering chicken rice and open 24 hours.",
+            "address": "12 Verdun Rd, Singapore 207278",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=17635526544880950207",
+                    "title": "Sam Leong St Chicken Rice",
+                    "placeId": "places/ChIJgQOl1McZ2jERv9uZnvT5vfQ"
+                }
+            }
+        },
+        {
+            "name": "Sing Swee Kee 新瑞记 Hainanese Chicken Rice and Zi Char",
+            "lat": 1.295913,
+            "lng": 103.855024,
+            "description": "Asian restaurant specializing in Hainanese Chicken Rice and Zi Char.",
+            "address": "34-35 Seah St, Singapore 188391",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=2103917914221246804",
+                    "title": "Sing Swee Kee 新瑞记 Hainanese Chicken Rice and Zi Char",
+                    "placeId": "places/ChIJZUwwoKUZ2jERVPm8KTKeMh0"
+                }
+            }
+        },
+        {
+            "name": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+            "lat": 1.300961,
+            "lng": 103.854293,
+            "description": "Restaurant offering Hainanese boneless chicken rice.",
+            "address": "270 Queen St, #01-57 Albert Centre, Singapore 180270",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=5610056242847685801",
+                    "title": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+                    "placeId": "places/ChIJDSbcWboZ2jERqRzm9G3s2k0"
+                }
+            }
+        },
+        {
+            "name": "183 Hainanese Chicken Rice Kepong Baru (#01-83)",
+            "lat": 1.301028,
+            "lng": 103.854077,
+            "description": "Hainanese Chicken Rice restaurant located in Kepong Baru.",
+            "address": "270 Queen St, #01-83, Singapore 180270",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=5250775118368632038",
+                    "title": "183 Hainanese Chicken Rice Kepong Baru (#01-83)",
+                    "placeId": "places/ChIJ3xCaIQAZ2jER5mzSfSaA3kg"
+                }
+            }
+        },
+        {
+            "name": "Jew Kit Hainanese Chicken Rice",
+            "lat": 1.298174,
+            "lng": 103.838878,
+            "description": "Restaurant offering Hainanese chicken rice with a rating of 4.2.",
+            "address": "105 Killiney Rd, Singapore 239546",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=4310234859645204863",
+                    "title": "Jew Kit Hainanese Chicken Rice",
+                    "placeId": "places/ChIJMf-bAZoZ2jERf3moq8QH0Ts"
+                }
+            }
+        },
+        {
+            "name": "Tai Loke Hainan Chicken Rice 大乐海南白切鸡饭",
+            "lat": 1.300138,
+            "lng": 103.853819,
+            "description": "Hainan chicken rice restaurant with a 3.9 rating.",
+            "address": "269B Queen St, Singapore 182269",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=2376024718954600782",
+                    "title": "Tai Loke Hainan Chicken Rice 大乐海南白切鸡饭",
+                    "placeId": "places/ChIJpxRU4roZ2jERThnWpuRV-SA"
+                }
+            }
+        },
+        {
+            "name": "瑞记鸡饭 Swee Kee Chicken Rice",
+            "lat": 1.296342,
+            "lng": 103.854528,
+            "description": "Chicken restaurant serving Swee Kee Chicken Rice.",
+            "address": "25 Seah St, Singapore 188381",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=12104231305088251599",
+                    "title": "瑞记鸡饭 Swee Kee Chicken Rice",
+                    "placeId": "places/ChIJ85M8OgAZ2jERz7bysj3e-qc"
+                }
+            }
+        },
+        {
+            "name": "Lucky Chicken Rice",
+            "lat": 1.304511,
+            "lng": 103.834137,
+            "description": "Restaurant serving chicken rice with a rating of 4.1.",
+            "address": "304 Orchard Rd, #02-110 Lucky Plaza, Singapore 238863",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=7285186863280805593",
+                    "title": "Lucky Chicken Rice",
+                    "placeId": "places/ChIJHXFAbZIZ2jER2dYxhNouGmU"
+                }
+            }
+        },
+        {
+            "name": "Victor Famous Fried Chicken Wing Rice and Hainanese Chicken Rice",
+            "lat": 1.307108,
+            "lng": 103.855209,
+            "description": "Restaurant offering both fried chicken wing rice and Hainanese chicken rice.",
+            "address": "638 Veerasamy Rd, #01-101 Yi He Eating House, Singapore 200638",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=14997914966883786608",
+                    "title": "Victor Famous Fried Chicken Wing Rice and Hainanese Chicken Rice",
+                    "placeId": "places/ChIJ1XxfErgZ2jERcF-fNDNMI9A"
+                }
+            }
+        },
+        {
+            "name": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+            "lat": 1.28386,
+            "lng": 103.850078,
+            "description": "Restaurant serving Hainanese boneless chicken rice.",
+            "address": "88 Market St, Singapore 048948",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=17344791469410803060",
+                    "title": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+                    "placeId": "places/ChIJKWDXodUZ2jERdN103fETtfA"
+                }
+            }
+        },
+        {
+            "name": "Go-Ang Pratunam Chicken Rice (Suntec City)",
+            "lat": 1.29462,
+            "lng": 103.858535,
+            "description": "Go-Ang Pratunam Chicken Rice located in Suntec City with a high rating of 4.9.",
+            "address": "3 Temasek Blvd, B1-126, Singapore 038983",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=4452354970098078887",
+                    "title": "Go-Ang Pratunam Chicken Rice (Suntec City)",
+                    "placeId": "places/ChIJP9tR3bYZ2jERpxSkdkHxyT0"
+                }
+            }
+        },
+        {
+            "name": "Heng Ji Chicken Rice",
+            "lat": 1.281924,
+            "lng": 103.843337,
+            "description": "Restaurant serving chicken rice.",
+            "address": "335 Smith St, #02-131, Singapore 050335",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=1950335938058836268",
+                    "title": "Heng Ji Chicken Rice",
+                    "placeId": "places/ChIJAenlH3MZ2jERLNmszDP8EBs"
+                }
+            }
+        },
+        {
+            "name": "Ji Zai Ji 鸡仔记 Golden Mile Hainanese Boneless Chicken Rice",
+            "lat": 1.303083,
+            "lng": 103.863939,
+            "description": "Hainanese boneless chicken rice restaurant located at Golden Mile.",
+            "address": "505 Beach Rd, #B1-35, Singapore 199583",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=14413724225984805398",
+                    "title": "Ji Zai Ji 鸡仔记 Golden Mile Hainanese Boneless Chicken Rice",
+                    "placeId": "places/ChIJN6IdpEoZ2jERFjpE_NDVB8g"
+                }
+            }
+        },
+        {
+            "name": "Chicken Rice Gaofeng",
+            "lat": 1.288127,
+            "lng": 103.848605,
+            "description": "Restaurant serving chicken rice.",
+            "address": "32 S Bridge Rd, Singapore 058667",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=8325192659003039895",
+                    "title": "Chicken Rice Gaofeng",
+                    "placeId": "places/ChIJ_5Rkl5EZ2jERl-CQVp0GiXM"
+                }
+            }
+        },
+        {
+            "name": "Go-Ang Pratunam Chicken Rice (Plaza Singapura)",
+            "lat": 1.300356,
+            "lng": 103.845142,
+            "description": "Thai restaurant, Go-Ang Pratunam Chicken Rice, located in Plaza Singapura with an excellent rating of 4.7.",
+            "address": "68 Orchard Rd, #03-24 Plaza Singapura, Singapore 238839",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=10434387234493359414",
+                    "title": "Go-Ang Pratunam Chicken Rice (Plaza Singapura)",
+                    "placeId": "places/ChIJG-1mc6MZ2jERNuXY8OdjzpA"
+                }
+            }
+        },
+        {
+            "name": "Kampung Hainanese Chicken Rice",
+            "lat": 1.299564,
+            "lng": 103.855537,
+            "description": "Restaurant serving Kampung Hainanese Chicken Rice.",
+            "address": "200 Victoria St, #03-30 Bugis Junction, Singapore 188021",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=9581437100813585577",
+                    "title": "Kampung Hainanese Chicken Rice",
+                    "placeId": "places/ChIJ0RCrWgAZ2jERqQy-T0ca-IQ"
+                }
+            }
+        },
+        {
+            "name": "Yong Fa Hainanese Chicken Rice (#01-49)",
+            "lat": 1.301144,
+            "lng": 103.854085,
+            "description": "Hainanese Chicken Rice restaurant with a 3.8 rating.",
+            "address": "270 Queen St, #01-49, Singapore 180270",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=10557523064783688321",
+                    "title": "Yong Fa Hainanese Chicken Rice (#01-49)",
+                    "placeId": "places/ChIJPXzxFwAZ2jERgdJskErbg5I"
+                }
+            }
+        },
+        {
+            "name": "Fitra Chicken Rice",
+            "lat": 1.297821,
+            "lng": 103.850216,
+            "description": "Restaurant serving chicken rice, open 24 hours.",
+            "address": "51 Bras Basah Rd, #01-24/25 Lazada One, Singapore 189554",
+            "source": {
+                "maps": {
+                    "uri": "https://maps.google.com/?cid=3462033324223116876",
+                    "title": "Fitra Chicken Rice",
+                    "placeId": "places/ChIJg05aaAAZ2jERTDbiOvecCzA"
+                }
+            }
+        }
+    ],
+    "chunks": [
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=5305602326290988395",
+                "title": "Fitra Chicken Rice",
+                "placeId": "places/ChIJ-cYTK6QZ2jERa30PmjRJoUk"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=15278626773516051439",
+                "title": "Feng Ji Chicken Rice",
+                "placeId": "places/ChIJ7aLOLJ8Z2jER72My0xmWCNQ"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=17635526544880950207",
+                "title": "Sam Leong St Chicken Rice",
+                "placeId": "places/ChIJgQOl1McZ2jERv9uZnvT5vfQ"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=2103917914221246804",
+                "title": "Sing Swee Kee 新瑞记 Hainanese Chicken Rice and Zi Char",
+                "placeId": "places/ChIJZUwwoKUZ2jERVPm8KTKeMh0"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=5610056242847685801",
+                "title": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+                "placeId": "places/ChIJDSbcWboZ2jERqRzm9G3s2k0"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=5250775118368632038",
+                "title": "183 Hainanese Chicken Rice Kepong Baru (#01-83)",
+                "placeId": "places/ChIJ3xCaIQAZ2jER5mzSfSaA3kg"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=4310234859645204863",
+                "title": "Jew Kit Hainanese Chicken Rice",
+                "placeId": "places/ChIJMf-bAZoZ2jERf3moq8QH0Ts"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=2376024718954600782",
+                "title": "Tai Loke Hainan Chicken Rice 大乐海南白切鸡饭",
+                "placeId": "places/ChIJpxRU4roZ2jERThnWpuRV-SA"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=12104231305088251599",
+                "title": "瑞记鸡饭 Swee Kee Chicken Rice",
+                "placeId": "places/ChIJ85M8OgAZ2jERz7bysj3e-qc"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=7285186863280805593",
+                "title": "Lucky Chicken Rice",
+                "placeId": "places/ChIJHXFAbZIZ2jER2dYxhNouGmU"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=14997914966883786608",
+                "title": "Victor Famous Fried Chicken Wing Rice and Hainanese Chicken Rice",
+                "placeId": "places/ChIJ1XxfErgZ2jERcF-fNDNMI9A"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=17344791469410803060",
+                "title": "Tong Fong Fatt Hainanese Boneless Chicken Rice",
+                "placeId": "places/ChIJKWDXodUZ2jERdN103fETtfA"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=4452354970098078887",
+                "title": "Go-Ang Pratunam Chicken Rice (Suntec City)",
+                "placeId": "places/ChIJP9tR3bYZ2jERpxSkdkHxyT0"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=1950335938058836268",
+                "title": "Heng Ji Chicken Rice",
+                "placeId": "places/ChIJAenlH3MZ2jERLNmszDP8EBs"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=14413724225984805398",
+                "title": "Ji Zai Ji 鸡仔记 Golden Mile Hainanese Boneless Chicken Rice",
+                "placeId": "places/ChIJN6IdpEoZ2jERFjpE_NDVB8g"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=8325192659003039895",
+                "title": "Chicken Rice Gaofeng",
+                "placeId": "places/ChIJ_5Rkl5EZ2jERl-CQVp0GiXM"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=10434387234493359414",
+                "title": "Go-Ang Pratunam Chicken Rice (Plaza Singapura)",
+                "placeId": "places/ChIJG-1mc6MZ2jERNuXY8OdjzpA"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=9581437100813585577",
+                "title": "Kampung Hainanese Chicken Rice",
+                "placeId": "places/ChIJ0RCrWgAZ2jERqQy-T0ca-IQ"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=10557523064783688321",
+                "title": "Yong Fa Hainanese Chicken Rice (#01-49)",
+                "placeId": "places/ChIJPXzxFwAZ2jERgdJskErbg5I"
+            }
+        },
+        {
+            "maps": {
+                "uri": "https://maps.google.com/?cid=3462033324223116876",
+                "title": "Fitra Chicken Rice",
+                "placeId": "places/ChIJg05aaAAZ2jERTDbiOvecCzA"
+            }
+        }
+    ]
+}
